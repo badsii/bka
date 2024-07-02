@@ -468,6 +468,29 @@ a:hover {
     visibility: hidden
 }
 
+/* Other existing CSS */
+
+/* Other existing CSS */
+
+#bio {
+    font-family: Modeseven;
+    font-size: 24px;
+    color: white;
+    text-shadow: 0 0 .4em #070707;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.typed-cursor {
+    font-size: 24px; /* Ensure this matches the font size of the typed text */
+    color: white; /* Ensure this matches the color of the typed text */
+    text-shadow: 0 0 .4em #070707; /* Ensure this matches the text shadow of the typed text */
+    vertical-align: middle; /* Align the cursor vertically in the middle */
+}
+
+
+
+
 .socials a:hover:before {
     opacity: 1;
     visibility: visible
